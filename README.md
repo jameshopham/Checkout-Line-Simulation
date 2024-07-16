@@ -10,7 +10,7 @@ and performance of each model under similar conditions.
 
 The following was programmed for out simulations.
 
-##Parameters:
+## Parameters:
 The Customer class defines several key parameters and calculates the checkout time:
 - Each customer has a random number of items to check out, ranging from 10 to 40.
 - It takes 5 seconds to scan each item.
